@@ -20,7 +20,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
@@ -46,7 +46,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
@@ -73,7 +73,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
@@ -102,7 +102,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
@@ -128,7 +128,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
@@ -155,7 +155,7 @@
         </figcaption>
       </div>
       <div class="bottom-wrap"> <a href="#" class="btn btn-primary float-right" data-abc="true"> Buy now </a>
-        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Cancel </a> </div>
+        <div class="price-wrap"> <a href="#" class="btn btn-warning float-left" data-abc="true"> Add to Basket </a> </div>
       </div>
     </figure>
 
